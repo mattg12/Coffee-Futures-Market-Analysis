@@ -20,3 +20,8 @@ I will attempt to use a variety of modeling techniques in my predictions, includ
 3. Neural networks - LSTM in particular
 
 ## Conclusions
+
+---
+## Revisiting Jan 6, 2020
+
+Next steps: Case study on major producers, importers, and weather factors
